@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1409164939 source:c:\users\xeon-21\desktop\boxv0.1b\main.cpp
+	<iostream>
+	<iomanip>
+	<iostream>
+	<vector>
+	<string>
+
+1409158808 source:c:\users\xeon-21\desktop\boxv0.1b\f.cpp
+	<iostream>
+
+1409158808 c:\users\xeon-21\desktop\boxv0.1b\f.cpp
+	<iostream>
+
